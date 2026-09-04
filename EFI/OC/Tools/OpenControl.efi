@@ -1,0 +1,4 @@
+Placeholder only.
+
+Download the matching OpenCorePkg release and copy OpenControl.efi from the X64 EFI/OC/Tools folder:
+https://github.com/acidanthera/OpenCorePkg/releases

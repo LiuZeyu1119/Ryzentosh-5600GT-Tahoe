@@ -1,0 +1,5 @@
+Placeholder only.
+
+Generate this SSDT for your own motherboard. Use SSDTTime or follow the OpenCore ACPI guide:
+https://github.com/corpnewt/SSDTTime
+https://dortania.github.io/Getting-Started-With-ACPI/

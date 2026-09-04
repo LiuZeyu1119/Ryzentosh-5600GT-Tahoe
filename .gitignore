@@ -1,0 +1,7 @@
+.DS_Store
+._*
+**/.DS_Store
+**/._*
+
+# The same generated EFI already exists as a normal directory in this repository.
+EFI-5600GT-Tahoe.zip

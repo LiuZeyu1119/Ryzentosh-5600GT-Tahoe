@@ -1,0 +1,4 @@
+Placeholder only.
+
+Download the matching OpenCorePkg release and copy BOOTx64.efi from the X64 EFI/BOOT folder:
+https://github.com/acidanthera/OpenCorePkg/releases

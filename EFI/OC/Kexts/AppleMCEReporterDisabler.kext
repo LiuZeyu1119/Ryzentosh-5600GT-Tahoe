@@ -1,0 +1,7 @@
+Placeholder only.
+
+Use a codeless AppleMCEReporterDisabler.kext from a trusted AMD/OpenCore source when using MacPro7,1 or similar SMBIOS on AMD.
+Leave ExecutablePath empty for this kext in config.plist.
+
+Common source:
+https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip

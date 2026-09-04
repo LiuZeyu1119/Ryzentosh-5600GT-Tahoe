@@ -1,0 +1,5 @@
+Placeholder only.
+
+This is board-specific. Generate or compile an equivalent USB reset SSDT for your own ACPI layout.
+Start with the OpenCore ACPI guide and inspect your own DSDT:
+https://dortania.github.io/Getting-Started-With-ACPI/

@@ -1,0 +1,4 @@
+Placeholder only.
+
+Download the matching OpenCorePkg release and copy OpenCore.efi from the X64 EFI/OC folder:
+https://github.com/acidanthera/OpenCorePkg/releases

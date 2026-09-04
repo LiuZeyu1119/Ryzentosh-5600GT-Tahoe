@@ -1,0 +1,5 @@
+Placeholder only.
+
+Generate or compile this SSDT only if your ACPI patches require XOSI behavior.
+Start with the OpenCore ACPI guide:
+https://dortania.github.io/Getting-Started-With-ACPI/

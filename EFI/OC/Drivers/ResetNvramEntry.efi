@@ -1,0 +1,4 @@
+Placeholder only.
+
+Download the matching OpenCorePkg release and copy ResetNvramEntry.efi from the X64 EFI/OC/Drivers folder:
+https://github.com/acidanthera/OpenCorePkg/releases
